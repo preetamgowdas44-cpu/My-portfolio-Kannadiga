@@ -35,7 +35,7 @@ I love designing creative and responsive web pages using modern HTML and CSS.
 ---
 
 ## 📬 Contact
-📧 *Email:* yourname@gmail.com  
+📧 *Email:* preetamgowdas44@gmail.com  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/preetam-gowda-s-320558389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 🐙 [GitHub Profile](https://github.com/preetamgowdas44-cpu)
 
